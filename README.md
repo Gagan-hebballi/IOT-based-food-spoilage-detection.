@@ -30,4 +30,4 @@ ii)DO digital pin is kept as it is
 iii)GND pin of sensor is connected to GND pin of arduino (or common GND)
 iv)Vcc pin of sensor 5v power supply pin of Arduino.
 
-
+![image](https://github.com/user-attachments/assets/71945dc5-ff5c-4d3d-af49-58ae37a085b1)
